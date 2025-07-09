@@ -1,0 +1,54 @@
+name: C++ CI
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**.cpp'
+      - '**.h'
+      - '**/CMakeLists.txt'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - '**.cpp'
+      - '**.h'
+      - '**/CMakeLists.txt'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        build_type: [Debug, Release]
+        include:
+          - compiler: g++
+            generator: Ninja
+          - compiler: clang++
+            generator: Ninja
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up CMake
+        uses: cmake-actions/setup-cmake@v3
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ninja-build
+
+      - name: Configure CMake
+        run: |
+          cmake -S . -B build -G "${{ matrix.generator }}" -DCMAKE_BUILD_TYPE=${{ matrix.build_type }}
+
+      - name: Build
+        run: cmake --build build --parallel
+
+      - name: Run tests
+        run: |
+          cmake --build build --target tests
+          ctest --test-dir build/tests --output-on-failure
