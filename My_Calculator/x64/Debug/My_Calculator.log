@@ -1,10 +1,2 @@
-﻿  AddOperation.cpp
-  Calculator.cpp
-  DivideOperation.cpp
-  main.cpp
-  MultiplyOperation.cpp
-  SubtractOperation.cpp
-  CalculatorTest.cpp
-  Generating Code...
-CalculatorTest.obj : error LNK2005: main already defined in main.obj
+﻿CalculatorTest.obj : error LNK2005: main already defined in main.obj
 C:\Users\Administrator\Desktop\My_Calculator\My_Calculator\x64\Debug\My_Calculator.exe : fatal error LNK1169: one or more multiply defined symbols found
