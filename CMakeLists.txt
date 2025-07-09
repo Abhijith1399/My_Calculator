@@ -1,36 +1,31 @@
-cmake_minimum_required(VERSION 3.20)
+# Define all source files for the library
+set(LIBRARY_SOURCES
+    src/AddOperation.cpp
+    src/SubtractOperation.cpp
+    src/MultiplyOperation.cpp
+    src/DivideOperation.cpp
+    src/Calculator.cpp
+)
 
-set(CMAKE_CXX_STANDARD 17)
+# Create the static library
+add_library(mylib STATIC ${LIBRARY_SOURCES})
 
-project("My_Calculator")
+# Include directories
+target_include_directories(mylib PUBLIC inc)
 
-#include path
-include_directories(inc)
+# Define the main application
+add_executable(MyApp src/main.cpp)
+target_link_libraries(MyApp PRIVATE mylib)
 
-#add library
-
-add_library(mylib src/AddOperation.cpp)
-add_library(mylib src/DivideOperation.cpp)
-add_library(mylib src/MultiplyOperation.cpp)
-add_library(mylib src/SubtractOperation.cpp)
-add_library(mylib src/CalCulator.cpp)
-#main application
-
-add_executable(Myapp src/main.cpp)
-target_link_libraries(Myapp mylib)
-
-#Unit test
+# Enable testing
 enable_testing()
-#add_executable(MyTests tests/test_add01.cpp)
-#target_link_libraries(MyTests mylib)
-#add_test(NAME RunMyTests COMMAND MyTests)
 
+# Define and add test executables
 macro(add_calc_test name)
-add_executable(${name} tests/${name}.cpp)
-target_link_libraries(${name} mylib)
-add_test(NAME ${name} COMMAND ${name})
+    add_executable(${name} test/${name}.cpp)
+    target_link_libraries(${name} PRIVATE mylib)
+    add_test(NAME ${name} COMMAND ${name})
 endmacro()
 
-#add test case
-
+# Add specific tests
 add_calc_test(CalculatorTest)
