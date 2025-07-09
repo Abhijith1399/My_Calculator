@@ -39,6 +39,9 @@
     <Text Include="CMakeLists.txt" />
     <Text Include="test\CMakeLists.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include=".github\workflow\ci.yml" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
