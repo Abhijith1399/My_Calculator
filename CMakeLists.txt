@@ -1,25 +1,36 @@
 cmake_minimum_required(VERSION 3.20)
-project(My_Calculator LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 17)
-set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-# Create shared core library
-add_library(calculator_lib
-    src/Calculator.cpp
-    src/AddOperation.cpp
-    src/SubtractOperation.cpp
-    src/MultiplyOperation.cpp
-    src/DivideOperation.cpp
-)
-target_include_directories(calculator_lib PUBLIC ${CMAKE_SOURCE_DIR}/inc)
+project("My_Calculator")
 
-# Main application executable
-add_executable(MyApp
-    src/main.cpp
-)
-target_link_libraries(MyApp PRIVATE calculator_lib)
+#include path
+include_directories(inc)
 
-# Enable testing
+#add library
+
+add_library(mylib src/AddOperation.cpp)
+add_library(mylib src/DivideOperation.cpp)
+add_library(mylib src/MultiplyOperation.cpp)
+add_library(mylib src/SubtractOperation.cpp)
+add_library(mylib src/CalCulator.cpp)
+#main application
+
+add_executable(Myapp src/main.cpp)
+target_link_libraries(Myapp mylib)
+
+#Unit test
 enable_testing()
-add_subdirectory(test)
+#add_executable(MyTests tests/test_add01.cpp)
+#target_link_libraries(MyTests mylib)
+#add_test(NAME RunMyTests COMMAND MyTests)
+
+macro(add_calc_test name)
+add_executable(${name} tests/${name}.cpp)
+target_link_libraries(${name} mylib)
+add_test(NAME ${name} COMMAND ${name})
+endmacro()
+
+#add test case
+
+add_calc_test(CalculatorTest)

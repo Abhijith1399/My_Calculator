@@ -1,0 +1,9 @@
+C:/Users/Administrator/Desktop/MyCalculator/My_Calculator/out/build/x64-Debug/CMakeFiles/calculator_lib.dir
+C:/Users/Administrator/Desktop/MyCalculator/My_Calculator/out/build/x64-Debug/CMakeFiles/MyApp.dir
+C:/Users/Administrator/Desktop/MyCalculator/My_Calculator/out/build/x64-Debug/CMakeFiles/test.dir
+C:/Users/Administrator/Desktop/MyCalculator/My_Calculator/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/MyCalculator/My_Calculator/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/Desktop/MyCalculator/My_Calculator/out/build/x64-Debug/test/CMakeFiles/CalculatorTest.dir
+C:/Users/Administrator/Desktop/MyCalculator/My_Calculator/out/build/x64-Debug/test/CMakeFiles/test.dir
+C:/Users/Administrator/Desktop/MyCalculator/My_Calculator/out/build/x64-Debug/test/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/MyCalculator/My_Calculator/out/build/x64-Debug/test/CMakeFiles/rebuild_cache.dir

@@ -1,77 +1,84 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\test\\CalculatorTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:test\\CalculatorTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\AddOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:src\\AddOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\inc\\AddOperation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inc\\AddOperation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\build\\CMakeCache.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:build\\CMakeCache.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\.github\\workflow\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:.github\\workflow\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|CMake Overview Pages||{B1CAA5B0-FEB1-4350-8AB9-F895876842F2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\test\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:test\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\MultiplyOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:src\\MultiplyOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\DivideOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:src\\DivideOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\inc\\DivideOperation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:inc\\DivideOperation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\inc\\MultiplyOperation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:inc\\MultiplyOperation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\SubtractOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:src\\SubtractOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\inc\\SubtractOperation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:inc\\SubtractOperation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\inc\\AddOperation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:inc\\AddOperation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:src\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\inc\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:inc\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\inc\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:inc\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\test\\CalculatorTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test\\CalculatorTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\MEMORY||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\test\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\src\\MultiplyOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\MultiplyOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\src\\AddOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\AddOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\.github\\workflow\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflow\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\src\\DivideOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\DivideOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\inc\\DivideOperation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inc\\DivideOperation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\inc\\MultiplyOperation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inc\\MultiplyOperation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\src\\SubtractOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\SubtractOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\inc\\SubtractOperation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inc\\SubtractOperation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\src\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\inc\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inc\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\inc\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inc\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -81,7 +88,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,35 +101,33 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-07-09T17:55:10.645Z",
+              "Title": "CMakeCache.txt",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\build\\CMakeCache.txt",
+              "RelativeDocumentMoniker": "build\\CMakeCache.txt",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\build\\CMakeCache.txt",
+              "RelativeToolTip": "build\\CMakeCache.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-09T18:07:10.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CMakeLists.txt",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\test\\CMakeLists.txt",
-              "RelativeDocumentMoniker": "test\\CMakeLists.txt",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\test\\CMakeLists.txt",
-              "RelativeToolTip": "test\\CMakeLists.txt",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAcwA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-09T17:31:00.973Z"
+              "DocumentIndex": 4,
+              "Title": "CMake Overview Pages",
+              "DocumentMoniker": "CMake Overview Pages",
+              "ToolTip": "CMake Overview Pages",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-09T18:07:05.278Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\src\\main.cpp",
               "RelativeDocumentMoniker": "src\\main.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\main.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\src\\main.cpp",
               "RelativeToolTip": "src\\main.cpp",
               "ViewState": "AQIAAAMAAAAAAAAAAAAqwAUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -131,11 +136,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "CalculatorTest.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\test\\CalculatorTest.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\test\\CalculatorTest.cpp",
               "RelativeDocumentMoniker": "test\\CalculatorTest.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\test\\CalculatorTest.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\test\\CalculatorTest.cpp",
               "RelativeToolTip": "test\\CalculatorTest.cpp",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -144,11 +149,61 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddOperation.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\inc\\AddOperation.h",
+              "RelativeDocumentMoniker": "inc\\AddOperation.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\inc\\AddOperation.h",
+              "RelativeToolTip": "inc\\AddOperation.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-09T08:37:46.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-09T17:02:49.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\test\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "test\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\test\\CMakeLists.txt",
+              "RelativeToolTip": "test\\CMakeLists.txt",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-09T17:31:00.973Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-07-09T17:55:10.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MultiplyOperation.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\MultiplyOperation.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\src\\MultiplyOperation.cpp",
               "RelativeDocumentMoniker": "src\\MultiplyOperation.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\MultiplyOperation.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\src\\MultiplyOperation.cpp",
               "RelativeToolTip": "src\\MultiplyOperation.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -156,24 +211,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "AddOperation.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\AddOperation.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\src\\AddOperation.cpp",
               "RelativeDocumentMoniker": "src\\AddOperation.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\AddOperation.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\src\\AddOperation.cpp",
               "RelativeToolTip": "src\\AddOperation.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-09T08:38:44.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T08:38:44.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "ci.yml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\.github\\workflow\\ci.yml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\.github\\workflow\\ci.yml",
               "RelativeDocumentMoniker": ".github\\workflow\\ci.yml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\.github\\workflow\\ci.yml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\.github\\workflow\\ci.yml",
               "RelativeToolTip": ".github\\workflow\\ci.yml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
@@ -181,23 +235,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CMakeLists.txt",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\CMakeLists.txt",
-              "RelativeDocumentMoniker": "CMakeLists.txt",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\CMakeLists.txt",
-              "RelativeToolTip": "CMakeLists.txt",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-09T17:02:49.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "DivideOperation.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\DivideOperation.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\src\\DivideOperation.cpp",
               "RelativeDocumentMoniker": "src\\DivideOperation.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\DivideOperation.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\src\\DivideOperation.cpp",
               "RelativeToolTip": "src\\DivideOperation.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -205,11 +247,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "DivideOperation.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\inc\\DivideOperation.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\inc\\DivideOperation.h",
               "RelativeDocumentMoniker": "inc\\DivideOperation.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\inc\\DivideOperation.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\inc\\DivideOperation.h",
               "RelativeToolTip": "inc\\DivideOperation.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -217,11 +259,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "MultiplyOperation.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\inc\\MultiplyOperation.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\inc\\MultiplyOperation.h",
               "RelativeDocumentMoniker": "inc\\MultiplyOperation.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\inc\\MultiplyOperation.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\inc\\MultiplyOperation.h",
               "RelativeToolTip": "inc\\MultiplyOperation.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -229,11 +271,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "SubtractOperation.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\SubtractOperation.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\src\\SubtractOperation.cpp",
               "RelativeDocumentMoniker": "src\\SubtractOperation.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\SubtractOperation.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\src\\SubtractOperation.cpp",
               "RelativeToolTip": "src\\SubtractOperation.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -241,11 +283,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "SubtractOperation.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\inc\\SubtractOperation.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\inc\\SubtractOperation.h",
               "RelativeDocumentMoniker": "inc\\SubtractOperation.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\inc\\SubtractOperation.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\inc\\SubtractOperation.h",
               "RelativeToolTip": "inc\\SubtractOperation.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -253,23 +295,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AddOperation.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\inc\\AddOperation.h",
-              "RelativeDocumentMoniker": "inc\\AddOperation.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\inc\\AddOperation.h",
-              "RelativeToolTip": "inc\\AddOperation.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-09T08:37:46.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Calculator.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\Calculator.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\src\\Calculator.cpp",
               "RelativeDocumentMoniker": "src\\Calculator.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\Calculator.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\src\\Calculator.cpp",
               "RelativeToolTip": "src\\Calculator.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -277,11 +307,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Calculator.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\inc\\Calculator.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\inc\\Calculator.h",
               "RelativeDocumentMoniker": "inc\\Calculator.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\inc\\Calculator.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\inc\\Calculator.h",
               "RelativeToolTip": "inc\\Calculator.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -289,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 6,
               "Title": "memory",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\memory",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\memory",
@@ -301,11 +331,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "stdafx.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\inc\\stdafx.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\inc\\stdafx.h",
               "RelativeDocumentMoniker": "inc\\stdafx.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\inc\\stdafx.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\MyCalculator\\My_Calculator\\inc\\stdafx.h",
               "RelativeToolTip": "inc\\stdafx.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
