@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\test\\CalculatorTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:test\\CalculatorTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\AddOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:src\\AddOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\.github\\workflow\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:.github\\workflow\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\test\\CalculatorTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:test\\CalculatorTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\test\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -23,16 +31,8 @@
       "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\AddOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:src\\AddOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\MultiplyOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:src\\MultiplyOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DC69C78-A1EA-4E2E-9B1E-5EEBBC94A72B}|My_Calculator.vcxproj|C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\DivideOperation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -81,7 +81,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CMakeLists.txt",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\test\\CMakeLists.txt",
               "RelativeDocumentMoniker": "test\\CMakeLists.txt",
@@ -118,19 +118,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\main.cpp",
               "RelativeDocumentMoniker": "src\\main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\main.cpp",
               "RelativeToolTip": "src\\main.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBQAAAABAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-09T14:57:19.274Z"
+              "WhenOpened": "2025-07-09T14:57:19.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CalculatorTest.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\test\\CalculatorTest.cpp",
               "RelativeDocumentMoniker": "test\\CalculatorTest.cpp",
@@ -138,11 +139,12 @@
               "RelativeToolTip": "test\\CalculatorTest.cpp",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-09T16:10:29.877Z"
+              "WhenOpened": "2025-07-09T16:10:29.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MultiplyOperation.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\MultiplyOperation.cpp",
               "RelativeDocumentMoniker": "src\\MultiplyOperation.cpp",
@@ -154,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "AddOperation.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\src\\AddOperation.cpp",
               "RelativeDocumentMoniker": "src\\AddOperation.cpp",
@@ -162,11 +164,12 @@
               "RelativeToolTip": "src\\AddOperation.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-09T08:38:44.824Z"
+              "WhenOpened": "2025-07-09T08:38:44.824Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ci.yml",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\.github\\workflow\\ci.yml",
               "RelativeDocumentMoniker": ".github\\workflow\\ci.yml",
@@ -174,12 +177,11 @@
               "RelativeToolTip": ".github\\workflow\\ci.yml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-07-09T15:03:22.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T15:03:22.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CMakeLists.txt",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My_Calculator\\My_Calculator\\CMakeLists.txt",
               "RelativeDocumentMoniker": "CMakeLists.txt",

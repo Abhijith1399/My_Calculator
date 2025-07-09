@@ -37,7 +37,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="CMakeLists.txt" />
-    <Text Include="test\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".github\workflow\ci.yml" />
